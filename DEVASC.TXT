@@ -1,0 +1,4 @@
+I am on my way to pass DevNet DEVASC examgit status 
+I am beginning to understand Git!
+Yes finally, I understand Git!
+This text was added originally while in the feature branch 
